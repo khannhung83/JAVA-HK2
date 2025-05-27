@@ -1,0 +1,61 @@
+Hãy viết một báo cáo đồ án cơ sở 1 với đề tài: "Thiết kế và xây dựng website nghe nhạc bằng công nghệ Frontend", độ dài khoảng 60-80 trang. Báo cáo cần đầy đủ các phần sau:
+
+Trang bìa: Có tên đề tài, tên sinh viên, mã số sinh viên, lớp, giảng viên hướng dẫn, trường.
+
+Mục lục: Tự động tạo mục lục theo các phần bên dưới.
+
+Lời mở đầu: Giới thiệu về mục tiêu đồ án, lý do chọn đề tài, ý nghĩa thực tiễn.
+
+Chương 1 – Tổng quan đề tài:
+
+Giới thiệu chung về website nghe nhạc.
+
+Xu hướng và nhu cầu nghe nhạc trực tuyến hiện nay.
+
+Một số website nghe nhạc phổ biến (Zing MP3, Spotify...) và phân tích sơ bộ.
+
+Chương 2 – Công cụ và công nghệ sử dụng:
+
+Ngôn ngữ lập trình: HTML, CSS, JavaScript.
+
+Công cụ phát triển: VS Code(nếu có thiết kế giao diện), v.v.
+
+Chương 3 – Phân tích và thiết kế hệ thống:
+
+Thiết kế giao diện người dùng (UI Design).
+
+Phân tích chức năng chính: đăng nhập, tìm kiếm bài hát, phát nhạc, playlist...
+
+Chương 4 – Cài đặt và triển khai:
+
+Cấu trúc thư mục code.
+
+Mô tả cách cài đặt môi trường.
+
+Các đoạn code chính (player nhạc, tìm kiếm...).
+
+Chương 5 – Kết quả thực nghiệm và đánh giá:
+
+Giao diện hoàn chỉnh.
+
+Các chức năng hoạt động.
+
+Đánh giá ưu điểm, hạn chế của website.
+
+Kết luận và hướng phát triển:
+
+Tổng kết những gì đã làm được.
+
+Hướng phát triển thêm (kết nối backend, thêm AI đề xuất nhạc...).
+
+Tài liệu tham khảo: Các tài liệu, website đã tham khảo.
+
+Phụ lục: Mã nguồn, sơ đồ, giao diện, tài liệu thiết kế...
+
+Yêu cầu thêm:
+
+Trình bày theo định dạng báo cáo chuẩn: có đánh số chương, tiêu đề rõ ràng.
+
+Ngôn ngữ kỹ thuật, phù hợp với sinh viên ngành CNTT.
+
+Có thể chia từng phần nhỏ thành nhiều đoạn để dễ đạt 60–80 trang khi in ra (cỡ chữ 13-14, dãn dòng 1.5–1.8).
