@@ -3,14 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JAVA/DACS1-v2-fixed-socket/DACS1-v2/src/dacs1/v2/AESUtil.java</file>
-            <file>file:/D:/JAVA/DACS1-v2-fixed-socket/DACS1-v2/src/dacs1/v2/LoginForm.java</file>
-            <file>file:/D:/JAVA/DACS1-v2-fixed-socket/DACS1-v2/src/dacs1/v2/ClientSocketManager.java</file>
-            <file>file:/D:/JAVA/DACS1-v2-fixed-socket/DACS1-v2/src/dacs1/v2/MainForm.java</file>
-            <file>file:/D:/JAVA/DACS1-v2-fixed-socket/DACS1-v2/src/dacs1/v2/FileRecord.java</file>
-            <file>file:/D:/JAVA/DACS1-v2-fixed-socket/DACS1-v2/src/dacs1/v2/Server.java</file>
-            <file>file:/D:/JAVA/DACS1-v2-fixed-socket/DACS1-v2/src/dacs1/v2/DBUtil.java</file>
-            <file>file:/D:/JAVA/DACS1-v2-fixed-socket/DACS1-v2/src/dacs1/v2/ClientHandler.java</file>
+            <file>file:/D:/JAVA/DACS1-v2-fixed-socket-DI_THI/JAVA-v2-DI_THI/src/dacs1/v2/Server.java</file>
+            <file>file:/D:/JAVA/DACS1-v2-fixed-socket-DI_THI/JAVA-v2-DI_THI/src/dacs1/v2/ClientHandler.java</file>
+            <file>file:/D:/JAVA/DACS1-v2-fixed-socket-DI_THI/JAVA-v2-DI_THI/src/dacs1/v2/AESUtil.java</file>
+            <file>file:/D:/JAVA/DACS1-v2-fixed-socket-DI_THI/JAVA-v2-DI_THI/src/dacs1/v2/FileRecord.java</file>
+            <file>file:/D:/JAVA/DACS1-v2-fixed-socket-DI_THI/JAVA-v2-DI_THI/src/dacs1/v2/ClientSocketManager.java</file>
+            <file>file:/D:/JAVA/DACS1-v2-fixed-socket-DI_THI/JAVA-v2-DI_THI/src/dacs1/v2/LoginForm.java</file>
+            <file>file:/D:/JAVA/DACS1-v2-fixed-socket-DI_THI/JAVA-v2-DI_THI/src/dacs1/v2/MainForm.java</file>
+            <file>file:/D:/JAVA/DACS1-v2-fixed-socket-DI_THI/JAVA-v2-DI_THI/src/dacs1/v2/DBUtil.java</file>
         </group>
     </open-files>
 </project-private>
